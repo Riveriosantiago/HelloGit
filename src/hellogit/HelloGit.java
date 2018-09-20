@@ -16,6 +16,10 @@ public class HelloGit {
      */
     public static void main(String[] args) {
         System.out.println("HELLOGIT");
+        
+        int a = 5;
+        
+        int x = 6;
     }
     
 }
